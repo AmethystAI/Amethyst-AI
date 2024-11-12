@@ -2,6 +2,8 @@
 
 Inspired by Eliza and Zara. Written in python to make it easier to use transformers and other ML libraries.
 
+![BANNER2](https://github.com/user-attachments/assets/c36fbc5d-d28a-44f1-bb52-ad5195ebf624)
+
 ```
 # main.py starts the system
 ├── Creates AutonomousAgent
